@@ -1,3 +1,5 @@
+Try this live at : https://genuine-licorice-8cdf15.netlify.app/
+
 Spell Checker Using Edit Distance
 This project implements a simple spell checker using Edit Distance to suggest corrections for misspelled words. The system relies on a large English corpus (big.txt) to build a vocabulary and calculate word probabilities, improving the accuracy of suggestions.
 
